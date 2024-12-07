@@ -1,7 +1,7 @@
 # By Alexandros Panagiotakopoulos 
-# MTP 333
 # Apache 2.0 License
 # alexandrospanag.github.io
+# Date 2024-2025.
 
 require 'securerandom' # For generating random data
 require 'digest' # For SHA256 encryption
